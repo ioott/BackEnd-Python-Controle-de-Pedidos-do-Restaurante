@@ -1,10 +1,9 @@
-# :construction: README em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto.
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+## Projeto BackEnd, utilizando Python.
+
+<img alt="Python" src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python">
+
+A lanchonete "Pão na Chapa" atualmente possui um sistema de faturamento dos pedidos que salva o nome da pessoa, o pedido realizado e o dia do atendimento (dia da semana). A lanchonete deseja utilizar essas informações, que já são capturadas, para melhorar o sistema com novas funcionalidades.
+
+Mostra habilidade de : 
+* Trabalhar com `Hashmap` e `Dict`
+* Trabalhar com `Set`
